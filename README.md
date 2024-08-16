@@ -12,5 +12,5 @@ Este repositório contém exercícios de Programação Orientada a Objetos (POO)
 ![Captura de tela 2024-08-15 210538](https://github.com/user-attachments/assets/a30d0346-c4a1-4e31-a402-e8df4ebfe69b)
 ![Captura de tela 2024-08-15 210553](https://github.com/user-attachments/assets/3a3add3e-2b0a-4e09-9529-9d663170a025)
 ![Captura de tela 2024-08-15 210603](https://github.com/user-attachments/assets/d1f86224-29b6-4299-bdb3-35f5e4441b95)
-![Captura de tela 2024-08-15 210518](https://github.com/user-attachments/assets/6a113bb3-e145-47ef-927e-f2eceaa78a6e)
+
 
